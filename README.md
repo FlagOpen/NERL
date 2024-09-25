@@ -8,6 +8,7 @@ Welcome to NERL (Never-Ending Robot Learning), an ambitious open-source communit
 1. **Data**: A rich and expanding dataset to fuel robot learning.
 2. **Models**: Embodied foundation model toolkits that include state-of-the-art models designed to tackle real-world problems in robotics.
 3. **Toolkit**: A complete suite that allows users to seamlessly process data, train models, and evaluate them against state-of-the-art benchmarks in embodied intelligence.
+4. **Leaderboard**: Provides a transparent evaluation platform that showcases model performance across various tasks and scenarios, offering benchmark tests for community users.
 
 We believe robots can master general tasks and behaviors by continuously learning from diverse data over time. 
 
